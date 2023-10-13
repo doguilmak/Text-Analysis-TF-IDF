@@ -40,15 +40,15 @@ $$ SC(Q, D_{i}) =  \sum_{j=1}^{n} w_{qj} \cdot d_{ij}$$
 
 Formula used to calculate the similarity (or score) between a query and a document. Here's what each part of the formula represents:
 
-- $SC(Q, D_i)$: This represents the similarity score (or similarity coefficient) between a query denoted as "$Q$" and a document denoted as "$D_i$."
+- $SC(Q, D_i)$: This represents the similarity score (or similarity coefficient) between a query denoted as "$Q$" and a document denoted as $D_i$.
 
 - $\sum$: The summation symbol, indicating that we are summing the results of the products of the terms within the summation.
 
-- $j=1$ and $n$: These specify the range of values for the index variable "j." The summation is performed for all "$j$" values from 1 to "$n$".
+- $j=1$ and $n$: These specify the range of values for the index variable $j$. The summation is performed for all $j$ values from 1 to $n$.
 
-- $w_{qj}$: This represents the weight of the term (or word) "$j$" in the query "$Q$".
+- $w_{qj}$: This represents the weight of the term (or word) $j$ in the query $Q$.
 
-- $d_{ij}$: This represents the weight of the term "$j$" in the document "$D_i$."
+- $d_{ij}$: This represents the weight of the term $j$ in the document $D_i$.
 
 <br>
 
