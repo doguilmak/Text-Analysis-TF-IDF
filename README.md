@@ -1,13 +1,12 @@
-
 <h1 align=center><b>Text Analysis and Information Retrieval with TF-IDF</b></font></h1>
 
 <br>
 
 <p align="center">
-    <img src="https://viso.ai/wp-content/uploads/2022/07/natural-language-processing-nlp-viso-ai.png" height=450 width=2000 alt="European Commission">
+    <img src="https://images.pexels.com/photos/1309899/pexels-photo-1309899.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height=450 width=2000 alt="European Commission">
 </p>
 
-<small>Picture Source: <a href="https://viso.ai/deep-learning/natural-language-processing/">viso.ai</a></small>
+<small>Picture Source: <a href="https://www.pexels.com/@jimbear/">Jimmy Chan</a></small>
 
 <br>
 
