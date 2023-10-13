@@ -57,7 +57,7 @@ Formula used to calculate the similarity (or score) between a query and a docume
 
 1. Clone the repository:
 
-`git clone https://github.com/yourusername/text-analysis-tfidf.git`
+`git clone https://github.com/doguilmak/Text-Analysis-TF-IDF.git`
 
 2. Run the notebook.
 
