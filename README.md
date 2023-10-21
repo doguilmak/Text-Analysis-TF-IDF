@@ -73,7 +73,7 @@ Formula used to calculate the similarity (or score) between a query and a docume
 
 <br>
 
-Here you can find relevant notebook of the project: [TF_IDF_InfRetrieval.ipynb](Bayesian%20Probabilistic%20Retrieval%20Strategy)
+Here you can find relevant notebook of the project: [TF_IDF_InfRetrieval.ipynb](https://github.com/doguilmak/Text-Analysis-TF-IDF/blob/main/notebooks/TF_IDF_InfRetrieval.ipynb)
 
 <br>
 
@@ -125,7 +125,7 @@ $$
 
 <br>
 
-Here you can find relevant notebook of the project: [TF_IDF_InfRetrieval_Bayesian.ipynb](Bayesian%20Probabilistic%20Retrieval%20Strategy)
+Here you can find relevant notebook of the project: [TF_IDF_InfRetrieval_Bayesian.ipynb](https://github.com/doguilmak/Text-Analysis-TF-IDF/blob/main/notebooks/TF_IDF_InfRetrieval_Bayesian.ipynb)
 
 <br>
 
